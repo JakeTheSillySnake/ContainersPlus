@@ -2,7 +2,7 @@
 
 Implementation of the s21_containers.h. library.
 
-The russian version of the task can be found in the repository.
+NOTE: I, the repository author, have programmed list, stack, map (tests included), Makefile and edited/contributed to binary_tree, set, multiset. Other parts of the project were created by different people. Below is the original version of the task.
 
 
 ## Contents
