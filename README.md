@@ -1,8 +1,8 @@
 # s21_containers
 
-Implementation of the s21_containers.h. library.
+Implementation of the s21_containers.h library.
 
-NOTE: I, the repository author, have programmed list, stack, map (tests included), Makefile and edited/contributed to binary_tree, set, multiset. Other parts of the project were created by different people. Below is the original version of the task.
+NOTE: I have programmed list, stack, map (tests included), Makefile and edited/contributed to binary_tree, set, multiset. Other parts of the project were created by different people. Below is the original version of the task.
 
 
 ## Contents
